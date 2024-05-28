@@ -934,8 +934,8 @@ button_name button_url
 ```
 Example:
 ```
-Repo_❤️ https://github.com/WZML-X 
-Updates https://t.me/WZML_X
+Anime❤️ https://t.me/+Zaj_eTVNS7o1MmI1
+Movie https://t.me/+mKXIX38_UpMxOTg1
 ```
 - **Note**: If you want to add space in button name use `_` for add space
 
